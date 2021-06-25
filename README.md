@@ -1,1 +1,1 @@
-{"name":"CABALA","description":"The pool that tests all the pools","ticker":"CABAL","homepage":"https://cabala-pool-2.jimdosite.com/"}
+CABALA
